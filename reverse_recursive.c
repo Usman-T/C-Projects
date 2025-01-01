@@ -1,6 +1,13 @@
 #include <stdio.h>
 
 #define MAXLINE 1000
+#define swap(t, x, y)                                                          \
+  {                                                                            \
+    t temp;                                                                    \
+    temp = x;                                                                  \
+    x = y;                                                                     \
+    y = temp;                                                                  \
+  };
 
 int getLine(char s[], int limit);
 void reverse(char s[]);
