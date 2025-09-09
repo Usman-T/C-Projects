@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/usman/exercism/cpp/raindrops/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

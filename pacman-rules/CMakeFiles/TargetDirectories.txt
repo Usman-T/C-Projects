@@ -1,0 +1,4 @@
+/home/usman/exercism/cpp/pacman-rules/CMakeFiles/pacman-rules.dir
+/home/usman/exercism/cpp/pacman-rules/CMakeFiles/test_pacman-rules.dir
+/home/usman/exercism/cpp/pacman-rules/CMakeFiles/edit_cache.dir
+/home/usman/exercism/cpp/pacman-rules/CMakeFiles/rebuild_cache.dir

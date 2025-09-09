@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/log-levels.dir/link.d "CMakeFiles/log-levels.dir/log_levels_test.cpp.o" "CMakeFiles/log-levels.dir/test/tests-main.cpp.o" -o log-levels

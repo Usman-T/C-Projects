@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/usman/exercism/cpp/interest-is-interesting/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

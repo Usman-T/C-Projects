@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/vehicle-purchase.dir/link.d "CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.o" "CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.o" "CMakeFiles/vehicle-purchase.dir/test/tests-main.cpp.o" -o vehicle-purchase

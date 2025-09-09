@@ -1,0 +1,4 @@
+/home/usman/exercism/cpp/vehicle-purchase/CMakeFiles/vehicle-purchase.dir
+/home/usman/exercism/cpp/vehicle-purchase/CMakeFiles/test_vehicle-purchase.dir
+/home/usman/exercism/cpp/vehicle-purchase/CMakeFiles/edit_cache.dir
+/home/usman/exercism/cpp/vehicle-purchase/CMakeFiles/rebuild_cache.dir

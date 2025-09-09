@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/usman/exercism/cpp/last-will/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/usman/exercism/cpp/ellens-alien-game/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
