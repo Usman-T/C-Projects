@@ -1,0 +1,4 @@
+/home/usman/exercism/cpp/reverse-string/CMakeFiles/reverse-string.dir
+/home/usman/exercism/cpp/reverse-string/CMakeFiles/test_reverse-string.dir
+/home/usman/exercism/cpp/reverse-string/CMakeFiles/edit_cache.dir
+/home/usman/exercism/cpp/reverse-string/CMakeFiles/rebuild_cache.dir

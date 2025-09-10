@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/usman/exercism/cpp/reverse-string/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
